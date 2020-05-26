@@ -1,0 +1,1 @@
+dotnet ef dbcontext scaffold "Server=(LocalDB)\MSSQLLocalDB;Database=Northwind;Trusted_Connection=True;MultipleActiveResultSets=True" Microsoft.EntityFrameworkCore.SqlServer
